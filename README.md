@@ -1,2 +1,2 @@
 # TrialAi
-Trying to implement something.
+It will contain copy of contents of udemy deep learning lactures.
